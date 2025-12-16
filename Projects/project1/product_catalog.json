@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "product_id": 101,
+      "product_name": "Wireless Headphones",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "brand": "TechSound",
+      "supplier": "Global Electronics Inc",
+      "cost_price": 150.0,
+      "retail_price": 299.99,
+      "in_stock": true
+    },
+    {
+      "product_id": 102,
+      "product_name": "Smart Watch",
+      "category": "Electronics",
+      "subcategory": "Wearables",
+      "brand": "FitTech",
+      "supplier": "Smart Devices Ltd",
+      "cost_price": 75.0,
+      "retail_price": 149.99,
+      "in_stock": true
+    },
+    {
+      "product_id": 103,
+      "product_name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "brand": "SoundWave",
+      "supplier": "Global Electronics Inc",
+      "cost_price": 40.0,
+      "retail_price": 79.99,
+      "in_stock": true
+    },
+    {
+      "product_id": 104,
+      "product_name": "Tablet 10 inch",
+      "category": "Electronics",
+      "subcategory": "Computers",
+      "brand": "TechPad",
+      "supplier": "Digital World Corp",
+      "cost_price": 100.0,
+      "retail_price": 199.99,
+      "in_stock": true
+    },
+    {
+      "product_id": 105,
+      "product_name": "4K Webcam",
+      "category": "Electronics",
+      "subcategory": "Accessories",
+      "brand": "VisionPro",
+      "supplier": "Camera Solutions Inc",
+      "cost_price": 250.0,
+      "retail_price": 499.99,
+      "in_stock": true
+    }
+  ]
+}
