@@ -1,0 +1,11 @@
+product_id,product_name,category,subcategory,brand,supplier,cost_price,retail_price,in_stock,ingestion_timestamp,source_system
+101,Wireless Headphones,Electronics,Audio,TechSound,Global Electronics Inc,150.0,299.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas
+102,Smart Watch,Electronics,Wearables,FitTech,Smart Devices Ltd,75.0,149.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas
+103,Bluetooth Speaker,Electronics,Audio,SoundWave,Global Electronics Inc,40.0,79.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas
+104,Tablet 10 inch,Electronics,Computers,TechPad,Digital World Corp,100.0,199.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas
+105,4K Webcam,Electronics,Accessories,VisionPro,Camera Solutions Inc,250.0,499.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas
+106,USB-C Hub,Electronics,Accessories,ConnectPro,Global Electronics Inc,20.0,49.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas
+107,Wireless Mouse,Electronics,Accessories,TechMouse,Smart Devices Ltd,15.0,34.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas
+108,Mechanical Keyboard,Electronics,Accessories,KeyMaster,Digital World Corp,60.0,129.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas
+109,Laptop Stand,Office,Furniture,DeskPro,Office Solutions,25.0,59.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas
+110,Monitor 27 inch,Electronics,Displays,ViewTech,Display Corp,180.0,349.99,True,2025-12-18 14:05:14.915748,MongoDB_Atlas

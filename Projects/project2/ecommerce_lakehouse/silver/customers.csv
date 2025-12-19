@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,country,city,state_province,postal_code,customer_segment,registration_date,ingestion_timestamp,source_system,full_name
+1,John,Smith,john.smith@email.com,USA,New York,NY,10001,Premium,2023-01-15,2025-12-18 14:05:14.915748,MySQL,John Smith
+2,Emma,Johnson,emma.j@email.com,UK,London,LDN,SW1A,Standard,2023-02-20,2025-12-18 14:05:14.915748,MySQL,Emma Johnson
+3,Michael,Brown,m.brown@email.com,CANADA,Toronto,ON,M5H,Premium,2023-01-10,2025-12-18 14:05:14.915748,MySQL,Michael Brown
+4,Sophia,Davis,sophia.d@email.com,USA,Los Angeles,CA,90001,Standard,2023-03-05,2025-12-18 14:05:14.915748,MySQL,Sophia Davis
+5,William,Garcia,w.garcia@email.com,SPAIN,Madrid,MD,28001,Premium,2023-01-25,2025-12-18 14:05:14.915748,MySQL,William Garcia
+6,Olivia,Martinez,olivia.m@email.com,MEXICO,Mexico City,MX,01000,Standard,2023-04-12,2025-12-18 14:05:14.915748,MySQL,Olivia Martinez
+7,James,Wilson,james.w@email.com,AUSTRALIA,Sydney,NSW,2000,Premium,2023-02-08,2025-12-18 14:05:14.915748,MySQL,James Wilson
+8,Isabella,Anderson,isabella.a@email.com,USA,Chicago,IL,60601,Standard,2023-03-18,2025-12-18 14:05:14.915748,MySQL,Isabella Anderson
+9,Benjamin,Taylor,ben.t@email.com,GERMANY,Berlin,BE,10115,Premium,2023-01-30,2025-12-18 14:05:14.915748,MySQL,Benjamin Taylor
+10,Mia,Thomas,mia.thomas@email.com,FRANCE,Paris,IDF,75001,Standard,2023-05-02,2025-12-18 14:05:14.915748,MySQL,Mia Thomas
+11,Lucas,Martinez,lucas.m@email.com,BRAZIL,São Paulo,SP,01310,Premium,2023-06-15,2025-12-18 14:05:14.915748,MySQL,Lucas Martinez
+12,Charlotte,Lee,charlotte.l@email.com,SINGAPORE,Singapore,SG,018956,Premium,2023-07-20,2025-12-18 14:05:14.915748,MySQL,Charlotte Lee
+13,Henry,Kim,henry.k@email.com,SOUTH KOREA,Seoul,SEL,04524,Standard,2023-08-10,2025-12-18 14:05:14.915748,MySQL,Henry Kim
+14,Amelia,Patel,amelia.p@email.com,INDIA,Mumbai,MH,400001,Standard,2023-09-05,2025-12-18 14:05:14.915748,MySQL,Amelia Patel
+15,Alexander,Schmidt,alex.s@email.com,SWITZERLAND,Zurich,ZH,8001,Premium,2023-10-12,2025-12-18 14:05:14.915748,MySQL,Alexander Schmidt
